@@ -93,7 +93,7 @@ export default function Projets() {
                     className="group flex items-center rounded-2xl border border-[var(--primary)] px-7 py-3 text-xs font-bold tracking-widest transition-all duration-300 hover:-translate-y-0.5 hover:bg-[var(--primary)] hover:text-[var(--background)]"
                 >
                     VOIR TOUS MES PROJETS
-                    <ArrowRight className="ml-2 h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
+                    <ArrowRight className="ml-2 h-4 w-4 transition-transform duration-300 group-hover:translate-x-1 " />
                 </a>
             </div>
         </section>
